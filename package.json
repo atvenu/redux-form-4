@@ -1,0 +1,4 @@
+{ "name": "redux-form-4",
+  "version": "1.0.0",
+  "description":"redux-form version 4",
+  "dependencies": { "redux-form":"4.2.2" } }
